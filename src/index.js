@@ -2,6 +2,7 @@ import { faker } from "@faker-js/faker";
 import React from "react";
 import ReactDOM from "react-dom";
 import CommentDetail from "./CommentDetails";
+import ApprovalCard from "./ApprovalCard";
 
 const App = () => {
   return (
