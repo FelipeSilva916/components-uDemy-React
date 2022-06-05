@@ -14,6 +14,7 @@ const App = () => {
           </a>
           <div className="metadata">
             <span className="date">Today at 6 pm</span>
+            <div className="text">Nice blog post!</div>
           </div>
         </div>
       </div>
